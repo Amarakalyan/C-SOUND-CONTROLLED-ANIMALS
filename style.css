@@ -1,0 +1,34 @@
+body{
+    color:aliceblue;
+	background:linear-gradient(#e98c56 0%,#fdfb7c 100%);
+    font-family: 'Open Sans', sans-serif;
+}
+.header_div {
+background:#d62d2d ;    
+color: aliceblue;
+}
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Robota', sans-serif;
+    letter-spacing: 1px; 
+}
+.main_div button{
+    font-family: 'Robota', sans-serif;
+       font-weight: bolder;
+    letter-spacing: 3px;
+    width: 130px;
+    margin-top: 30px;
+}
+.footer{
+ color: #131211;   
+ font-size: 18px;
+ text-align: center;
+ width: 100%;
+ position: fixed;
+ bottom: 0px;
+ background-color: #fd2306;
+ line-height: 3;
+ text-shadow: 5px 5px 5px rbg(151,149,149);
+}
